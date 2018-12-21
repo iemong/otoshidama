@@ -56,11 +56,7 @@ export default {
     // -------------- //
     // On window load //
     // -------------- //
-
-    window.onload = () => {
-      initializeApp();
-    };
-
+    initializeApp();
     // ----------------- //
     // Handler functions //
     // ----------------- //
